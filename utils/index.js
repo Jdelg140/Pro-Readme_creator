@@ -52,6 +52,27 @@ const questions = [
         name:"contributors",
         message: "Enter any contributers and their GitHub usernames."
     },
+    {
+        type:"input",
+        name:"test",
+        message: "Provide a walkthrough of what tests are required if necessary."
+    },
+    {
+        type:"input",
+        name:"install",
+        message: "Provide a resource to install software necessary to run the app."
+    },
+    {
+        type:"input",
+        name:"questions",
+        message: "Provide any questions regarding this app."
+    },
+    {
+        type:"input",
+        name:"link",
+        message: "Provide a link to your github page."
+    }
+
 
 ];
 

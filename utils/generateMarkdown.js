@@ -33,25 +33,33 @@ ${renderLicenseBadge(data.license)}
 
 ## Table of Contents ##
 * [Description](#description)
-* [Requirements](#requirements)
+* [Require](#require)
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
-* [Contact-Me](#contact-me)
 * [Contributors](#contributors)
 * [Testing](#testing)
+* [Installation](#installation)
+* [Questions](#questions)
 ## Description
 ${data.description}
 ## Requirements
 ${data.require}
+## Installation
+${data.install}
 ## Usage
 ${data.usage}
 ${renderLicenseSection(data.license)}
 ## Contact-Me
 - Name: ${data.name}
 - Email: ${data.email}
-- Github Username:  ${data.creator}
+- GitHub Username:  ${data.creator}
+- GitHub Link: ${data.link}
+## Testing
+${data.test}
 ## Contributors
 ${data.contributors}
+## Questions
+${data.questions}
 `;
 }
 

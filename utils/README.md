@@ -21,7 +21,7 @@ This project is licensed under the MIT license.
 - Name: Jacob Delgado
 - Email: Jacobdelgado140@gmail.com
 - GitHub Username:  Jdelg140
-- GitHub Page: [Link](#https://github.com/Jdelg140)
+- GitHub Page: [Link](https://github.com/Jdelg140)
 ## Testing
 None
 ## Contributors

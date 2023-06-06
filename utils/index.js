@@ -24,11 +24,6 @@ const questions = [
     },
     {
         type: "input",
-        name: "require",
-        message: "List project dependencies here."
-    },
-    {
-        type: "input",
         name: "usage",
         message: "State the coding languages used in this project."
     },

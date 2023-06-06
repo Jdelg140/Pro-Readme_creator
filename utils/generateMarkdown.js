@@ -33,7 +33,6 @@ ${renderLicenseBadge(data.license)}
 
 ## Table of Contents ##
 * [Description](#description)
-* [Require](#require)
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
 * [Contributors](#contributors)
@@ -42,8 +41,6 @@ ${renderLicenseLink(data.license)}
 * [Questions](#questions)
 ## Description
 ${data.description}
-## Requirements
-${data.require}
 ## Installation
 ${data.install}
 ## Usage
@@ -53,7 +50,7 @@ ${renderLicenseSection(data.license)}
 - Name: ${data.name}
 - Email: ${data.email}
 - GitHub Username:  ${data.creator}
-- GitHub Link: ${data.link}
+- GitHub Page: [Link](#${data.link})
 ## Testing
 ${data.test}
 ## Contributors

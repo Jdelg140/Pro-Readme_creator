@@ -1,9 +1,8 @@
-# Readme by Jacob
+# ReadMe Generator by Jacob Delgado
 ![License Badge](https://img.shields.io/badge/License-MIT-orange)
 
 ## Table of Contents ##
 * [Description](#description)
-* [Require](#require)
 * [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
@@ -11,20 +10,18 @@
 * [Installation](#installation)
 * [Questions](#questions)
 ## Description
-Readme
-## Requirements
-none
+To create a structured ReadMe file with table of contents
 ## Installation
-None
+Inquirer
 ## Usage
-java
+JavaScript, Node.js, Markdown
 ## License
 This project is licensed under the MIT license.
 ## Contact-Me
-- Name: Jacob
-- Email: Jacob@gmail.com
+- Name: Jacob Delgado
+- Email: Jacobdelgado140@gmail.com
 - GitHub Username:  Jdelg140
-- GitHub Link: github.com
+- GitHub Page: [Link](#https://github.com/Jdelg140)
 ## Testing
 None
 ## Contributors
